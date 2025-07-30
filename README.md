@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Seona Ann Tom
 
 🎓 3rd-year Computer Science & Engineering student at KTU  
-🤖 AI/ML enthusiast | 🌱 Currently exploring Deep Learning & NLP  
+ AI/ML enthusiast | 🌱 Currently exploring Deep Learning & NLP  
 📍 India
 
 ---
