@@ -1,48 +1,117 @@
-
 # 👋 Hi, I'm Seona Ann Tom
 
- Computer Science & Engineering student at KTU  
- AI/ML enthusiast |  Currently exploring Deep Learning & NLP  
- India
+### Computer Science Undergraduate | Backend Developer | AI & API Integration
+
+🎓 B.Tech Computer Science & Engineering student at KTU  
+💻 Software Development Intern at Repatria  
+🔧 Building backend systems, REST APIs, and AI-powered applications  
+🌱 Currently exploring Backend Engineering, AI Integration & Cloud Technologies  
+📍 India
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/seona-ann-tom-06351332a) 
+## 👩‍💻 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=seonaann&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=seonaann&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=seonaann&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a Computer Science undergraduate interested in building practical software
+systems, with a focus on **backend development, API integration, databases,
+and AI-powered applications**.
 
-##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=seonaann&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Currently, I'm working as a **Software Development Intern at Repatria**, where
+I develop backend services and conversational AI workflows using:
 
----
-[![](https://visitcount.itsvg.in/api?id=seonaann&icon=0&color=0)](https://visitcount.itsvg.in)
+- Node.js & Express.js
+- PostgreSQL & Prisma ORM
+- REST APIs
+- Gemini API
+- Google Maps API
+- Flutter integration
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I enjoy working on problems involving **data, APIs, system workflows,
+debugging, and intelligent automation**.
 
-
-##  About Me
-
--  I’m currently working on **Deep Learning** projects like image classification and **NLP**, including a completed **IMDB Sentiment Analysis**.
--  I’m looking to collaborate on **AI/ML projects**, especially beginner-friendly ones involving Computer Vision or Natural Language Processing.
--  Ask me about: **Python**, **Keras**, **pandas**, or anything related to my ML learning journey!
--  I’m currently learning **Computer Vision**, **Model Optimization**, and how to deploy models on the cloud.
--  I'm active on **Kaggle**, completing AI & ML micro-courses.
+I'm also exploring **Machine Learning, Computer Vision, NLP, and Cloud
+Technologies** alongside my software development journey.
 
 ---
 
-## 🔗 Connect with Me
+## 💻 Tech Stack
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seona-ann-tom-06351332a/)
-- 📂 [My Projects on GitHub](https://github.com/seonaann)
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI / Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+### Frontend & Mobile
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## ⚡ Fun Fact
+## 👩‍💼 Leadership
 
-I treat every dataset like a mystery to solve — just with Python instead of a magnifying glass! 🔍🐍
+### Learning Coordinator — TinkerHub VJCET
+
+- Organized and facilitated **15+ technical workshops and state-level
+  hackathons**
+- Reached **600+ students**
+- Led Women in Tech initiatives
+- Organized a **100+ participant** pre-hackathon meetup and hackathon
+
+---
+
+## 🌱 Currently Learning
+
+- Backend Engineering
+- System Design
+- AI & LLM Integration
+- Cloud Deployment
+- Computer Vision
+- Natural Language Processing
+- Database & API Optimization
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seonaann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonaann&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=seonaann&theme=tokyonight&hide_border=true" />
+</p>
+---
+
+## 🤝 Let's Connect
+
+💼 [LinkedIn](YOUR_LINKEDIN_URL)
+
+💻 [GitHub](https://github.com/seonaann)
+
+
+---
