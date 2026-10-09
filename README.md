@@ -96,10 +96,6 @@ Technologies** alongside my software development journey.
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="./profile/stats.svg" alt="Seona's GitHub Stats" width="495" />
   <img src="./profile/top-langs.svg" alt="Seona's Top Languages" width="350" />
