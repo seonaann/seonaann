@@ -96,14 +96,11 @@ Technologies** alongside my software development journey.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seonaann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Seona's GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seonaann&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Seona's Top Languages" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=seonaann&theme=tokyonight&hide_border=true" alt="Seona's GitHub Streak" />
+  <img src="./profile/stats.svg" alt="Seona's GitHub Stats" width="495" />
+  <img src="./profile/top-langs.svg" alt="Seona's Top Languages" width="350" />
 </p>
 ---
 
