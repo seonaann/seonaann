@@ -103,6 +103,14 @@ Technologies** alongside my software development journey.
 
 ---
 
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="./dist/contribution-graph.svg" alt="Seona's GitHub Contribution Graph" />
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 💼 [LinkedIn](YOUR_LINKEDIN_URL)
