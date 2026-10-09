@@ -1,0 +1,31 @@
+
+name: Update Contribution Graph
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: seonaann
+          outputs: |
+            dist/contribution-graph.svg
+
+      - name: Save graph to repository
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: dist/contribution-graph.svg
+          message: "Update contribution graph"
