@@ -94,14 +94,6 @@ Technologies** alongside my software development journey.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" alt="Seona's GitHub Stats" width="495" />
-  <img src="./profile/top-langs.svg" alt="Seona's Top Languages" width="350" />
-</p>
-
----
 
 ## 📈 GitHub Contribution Graph
 
@@ -113,9 +105,9 @@ Technologies** alongside my software development journey.
 
 ## 🤝 Let's Connect
 
-💼 [LinkedIn](YOUR_LINKEDIN_URL)
+💼 [LinkedIn](https://www.linkedin.com/in/seona-ann-tom/)
 
 💻 [GitHub](https://github.com/seonaann)
 
-
+👩‍💻 [Portfolio](https://seona-portfolio.vercel.app/)
 ---
